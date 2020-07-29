@@ -6,12 +6,12 @@ For singers:
 1. Accessible by browser on computer
 2. Can find rehearsal track (ie by entering a code provided by the director)
 3. Can identify self as a discrete user
-..* low-security option: by providing a username/email which the director does not have to approve
+   * low-security option: by providing a username/email which the director does not have to approve
 4. Can listen to the composite track so far as many times as desired
 5. Can record rehearsal attempt while listening to the track
-..* No option to mute the track, actually
+   * No option to mute the track, actually
 6. Upon completing first recording, it is automatically saved to the track files as username.wav
-..* Upon completing subsequent recordings, it is automatically saved and overwrites the previous file
+   * Upon completing subsequent recordings, it is automatically saved and overwrites the previous file
 7. After listening, can still listen to composite track (including self)
 8. At any time, can export the composite track as an audio file
 
@@ -55,8 +55,8 @@ For directors:
 * Ability for director to programmatically choose the length of silence at the beginning of tracks
 * After a singer records, ability to review their recording before uploading it
 * In review, ability to compare their recording against:
-..* The section
-..* Their previous recording
-..* The instrumental track
+  * The section
+  * Their previous recording
+  * The instrumental track
 * Ability to try recording again and scrap recent recording
 * Weird idea: after recording, director can programmatically choose a length of time to add to the track to let the singers talk to each other (ie the first sightreader says "Oof that was rough", the second singer tells a joke, the third singer laughs, the fourth singer says "How did you all finish rehearsing so fast?", etc) - I guess this would only work if the upload you send is final, otherwise someone might say something that sparks discussion and then they overwrite their file later, so it could work if the director enables a restriction so that members can only submit once per rehearsal period of days (although they can record and review as much as they want)
