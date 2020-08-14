@@ -17,11 +17,11 @@
 
 # Virtual Choir Project
 
-## Mission
-To bring a streamlined audio mixing experience to virtual choirs and directors anywhere, ASAP
+## Primary objective
+To provide a tool that makes audio mixing so effortless that choirs and ensembles can hear one another rehearse virtually every week
 
 ## Members
-Anna, Connor, Lillie "Henry", Maxine, ....
+Andrew, Anna, Connor, Lillie "Henry", Maxine, others to come hopefully <3
 
 ### Areas of interest/expertise covered:
 - Market research
@@ -37,4 +37,8 @@ Anna, Connor, Lillie "Henry", Maxine, ....
 - Senior developers
 - More folks with experience
 - More folks with interest
+
+## Further notes...
+
+- Two overarching directions this could go in is as a tool for use by established choirs or as a social media platform for use by individuals who want to discover, join, and create groups entirely on the platform. Currently, we're interested in only the tool use. 
 
