@@ -1,0 +1,13 @@
+Form: 4 questions, pros and cons of trad and virt each
+Video: part of the healthy backlog
+Website A+ (agree to develop a website)
+Audio part of website: most unfamiliar part
+Web app vs desktop app: prefer web
+
+Next steps: 
+
+- organization on discord and GitHub
+- research backend audio engineering languages
+- research website audio playback and recording plugins or browser tools
+- send out survey
+- get in contact with choral directors
