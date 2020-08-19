@@ -17,6 +17,9 @@
 
 # Virtual Choir Project
 
+[Discord link](https://discord.gg/SgUfJx)
+[Survey link](https://forms.gle/ibQqsLtmSktug4jE6)
+
 ## Primary objective
 To provide a tool that makes audio mixing so effortless that choirs and ensembles can hear one another rehearse virtually every week
 
