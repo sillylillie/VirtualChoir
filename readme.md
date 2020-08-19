@@ -18,6 +18,7 @@
 # Virtual Choir Project
 
 [Discord link](https://discord.gg/SgUfJx)
+
 [Survey link](https://forms.gle/ibQqsLtmSktug4jE6)
 
 ## Primary objective
