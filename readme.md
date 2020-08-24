@@ -17,7 +17,7 @@
 
 # Virtual Choir Project
 
-[Discord link](https://discord.gg/SgUfJx)
+[Discord link](https://discord.gg/BupsuAe)
 
 [Survey link](https://forms.gle/ibQqsLtmSktug4jE6)
 
